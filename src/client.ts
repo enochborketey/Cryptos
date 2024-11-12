@@ -5,5 +5,5 @@ import { createThirdwebClient } from "thirdweb";
 const clientId = import.meta.env.VITE_TEMPLATE_CLIENT_ID;
 
 export const client = createThirdwebClient({
-  clientId: clientId,
+  clientId: 'cdb1ff5539f9192fc7936799c17d2268',
 });
